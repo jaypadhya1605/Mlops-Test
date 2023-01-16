@@ -7,7 +7,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlopsv2
+  namespace: mlopsv2jaypadhya
   postfix: 0518
   location: westus
   environment: prod
